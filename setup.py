@@ -25,6 +25,8 @@ GENERIC_REQ = [
     "requests==2.22.0",
     "pyrfc3339==1.1",
     "cachetools==3.1.1",
+    "PyYAML==5.1.2",
+    "dotmap==1.3.8",
 ]
 
 CODE_QUALITY_REQ = [
